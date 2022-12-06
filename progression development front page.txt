@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+
+<html>
+	<div>
+<head>
+		<title> Abu mohith month 1 progression </title>
+</head>
+<body>
+	<h1> Azure DevOps Month-1 learning progress By Abubakar & Mohith Kumar </h1>
+	
+	<table border="1" >
+		<tr bgcolor="grey">
+		    <th>Date</th>
+		    <th>Topic</th>
+		    <th>Learning Status</th>
+		    <th>Documentation Status</th>
+		    <th>Start date</th>
+		    <th>End date</th>
+		    <th>Total No Of Days</th>
+		</tr>
+		<tr bgcolor="white">
+			<td>Week -1</td>
+			<td>Linux Basics and Introduction to DevOps </td>
+			<td>Completed </td>
+			<td>Completed </td>
+			<td>Sep 19th, 2022</td>
+			<td>Sep 23rd, 2022</td>
+			<td>5</td>
+		</tr>
+		<tr bgcolor="white">
+			<td>Week -2</td>
+			<td>Version control - Git</td>
+			<td>Completed </td>
+			<td>Completed </td>
+			<td>Sep 26th, 2022</td>
+			<td>Sep 30th, 2022</td>
+			<td>5</td>
+		</tr>	
+		<tr bgcolor="white">
+			<td>Week -3</td>
+			<td>Understanding code build for Angular and React</td>
+			<td>Completed </td>
+			<td>Completed </td>
+			<td>Sep 3rd, 2022</td>
+			<td>Sep 7th, 2022</td>
+			<td>4</td>
+		</tr>	
+		<tr bgcolor="white">
+			<td>Week -4</td>
+			<td>AZ-900 - Azure Cloud Fundamentals</td>
+			<td>In Progress  </td>
+			<td>In Progress </td>
+			<td>Sep 10th, 2022</td>
+			<td>Sep 14th, 2022</td>
+			<td>5</td>
+		</tr>	
+	</table>
+	</div>
+	<div >
+		<p> Click hear for <a href="https://creatingappusingazureappservice.azurewebsites.net/monthly%20progress.html"> <button> Indetail progress </button> </a> month 1 status</p>
+	</div>
+    <div>
+		<p> Click hear for <a href="https://docs.google.com/document/d/1g2LBhWWcVb0GikNxwJilXpPwEyxTOx0wGqysTAwe5w8/edit"> <button bgcolor="red"> Technical document for linux </button></a> </p>
+		<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVvWN4Ii0lBajGPVM17E9GHV-5f5e1wfE0zQ&usqp=CAU>
+	</div>
+    <div>
+		<p> Click hear for <a href="https://docs.google.com/document/d/18VK4mpasHluG0kQ1VEw5FaRFL8FjG5_NUHOpmrlK-R4/edit"> <button bgcolor="red"> Technical document for git </button></a> </p>
+		<img src=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATYAAACjCAMAAAA3vsLfAAABQVBMVEX////Z2dnn5uYYFhbiQyn8bSbj4uL8oybT0tLwUDMAAAD19fWtrKzX1tY9LQDb3NzvWifX4OHhNxbwqKE2JAA5KAD8aSbwSywyHwD8mwAOCwvyQhwtFwD8pyafm5LAvrnxSCjgLQCAeWyAgIDmoZjLy8uZlIowGwChoaHuaVTu7u63t7fwXkWVlZVfX1+IiIjucV4gHx9ZWVk7Ojpubm4jAADqUSj8fSb9x438jyZIR0fkUjv98vDhPB7zuLAwLy/peWnisKlRRClmXEe0sar8mSb+4ML+69f8hiZcUTr8qDknDACIgnX9tWD8dibsuLj+zMz41tHriXvkTjX64t/tlYjqhHZLPR70Ogf2pIPuURT6zbjubFjdw792bl39vHIXAAD+0qT8r07+2rX9vHH9exD0XACqd3fOoqK+j4/yvr45lMNuAAAPT0lEQVR4nO2dC1fbRhbHZUNlIz8ExAZjwCY4AmPXNg8nTQgUgmkTAiWPNqXNErJ97G423/8D7MxIsuat0VBA28w9OSc2kXSj35n/3MeMhJU1pmHWXf8H/j/tFrHZN2635wZgszM3btCTXbhxuz03ANvNU0PcStaNWyl7W24AttLtYMvf/P3ks7flxmDTcmOwabkx2LTcGGxabgw2LTcGm5Ybg03LjcGm5cZg03JjsGm5Mdi03BhsWm4MNi03BpuWG4NNy43BpuXGYNNyY7BpuTHYtNwYbFpuDDYtNwablhuDTcuNwablxmDTcmOwabkx2LTcGGxabgw2LTcGm5Ybg03LjcGm5cZg03JjsGm5SSG2TqnYG/Z3d3Z2dvutXtctJLmfLxNbodk6cKDVfUOfd3uKLL5QbN0+BDZBG4A30VLB8SVi6/TqHGShOc5OUeV+vjBsnRYYUlKrOxPt+PsRuXnz9G1COHuXl3tCNynB1ouD5g+5rab0TiXYnu7ff6NEa2zvZmffCd2kAlt+SwUaGnHbHcmdirH9dH9yP+Fw+3FyclLoJg3YBpI5jRlwTld8p2Js92YnJ/eTQIOgJwUDNBXYOjuKQy0E19LAtrEvhCAwCFqg0jRgyycYagG3XVECLMS2B4bO5L5gquLbU3DG5I9pxdZNNtR8blvZhNi+nYUQZhNQgxoFA/SndGLToQYiQ91Ohu1yH0FIoNJ7PugHqcSmRw1y4443ETak0WQq3UCgJ5+mEZunSQ1w2+LNbyJsvkaFCQXHfI0KVHrH2GxtamB+20mAbXNfAoFr9wLQs/fSh21rHEPrvAqeM8aww5yhMrZAo8KEgmOBRvkqvVts/fFgq2+3W7tx5ACz/qB9EHFj814BtrFGBQkFa2PQ3AF6p9iKkUQdGBgLxQNpB2Tbg2e1sbOYOkuA7XBfBoFnEWieSu8SWweb2LaCnzWDgsHvTgbtSv8Hfdc/BJsPnW01bHtjBoKEgrXLMej9jXRhG2L3H01TRYRqZ9hrd5vNZrE9GKJm74E3PgIfgbRM+dg+jxUnSCgY28POuM92j+4QWx4bbA7WR+u0ilQqW8i0e9jX7UjI9S3ySAG2SKOqKo00ylXpHWLbrUtGjcxaAt5ibNjQ4ScUjG1ioPcvU4SNSHS1sU3UFbDhGlVT6R5xBqvSGGzujJuAjGvb4sNpbPhguwY2h1xf4GL7eZ+AoKBSXKNggH6bDNvMs8N3ytzc/Oroqik8nMLmEvUBrTWp9XHg9YN4bMTQUVLpJgGaVakU28yDxfmVTVVubrlWrZx6osMpbC0SGyfhF9oEYY6H/xsP22sSm4JK96gzGJXKsAFqU1NTqtzc5lK5XK6toaM5cqWwUWktNUXJLEPWsSRxHjZSoyoqJTXKUakEm4uoQW4zStiOI2zu8dXVGsWNxEZ1PpxddWxZqvx34rBR1BRUekidsr+pjM0NsamOt1KtWq4+RJObvbq+vkq9S4/ENqSwqe/yYJHjKuVge0Mpjpv2E7ZHDTZWpUJsM8/cmWeJuLnNo+pFAx1pH1UrcmxbhEgTBVJmXhzIsb2lRxsv7SfsMw2aUakI28yDX36eAdzm5xNwszP+jAanOTk2Mo7WE0gUWoE8G4+lHGw0Al5CQRqtUValAmwwGqxAbpsbi+L5zcVs/A3Q88pVgA2+WROjTWArkuPFs5LZgDwd64Ow2BiNxquU0SggTQ5QPrYghh66LiC3Ihhvdum4sbbWaPrmemvImnZjtFQFwaF8dHR0cRydRWAjZUYXlrFmC6mz2H59P83Y+3sye8c74x/x2GaCYLD4DNz1zCVXp25pdX2pBmzJN/f4Ifx22rBHtTKyarW61BBgI0sE8WqxyA6I87FCgcW2fP4Va+9nJfaePX7uxZ+x2EJqU4sfILbDeV5cyF/UEBqfUKVmr53CzzWAbQlxqwKID0XYrhMQoBGBGMfOYHu+kONgm2NlGBnn8PPlhThsY2pTK+9movSNnN/sUaVcrlSurqrg7+roahWI9KKKsAHpop8dNxoNj4+NnNMd/pKnzNpENY8lvAy2x7ncd3MsCAm1RxzMudzC93JsETUw3N65JW4e4jZPIRlYDIyqIMfNgn+xGzWIzXVtWC+ASOpHCh62rHBKVzRidRUPxAy2XC63/ITlNi3GNs0Otu/AVQiVMthwalPzGzP5Q14e4q4BROtwLLkeZIRKgwCbX2ZJExCqjk+S6/rWJLBhGQiNDWgUcPuG4SZRKUvtyTK4CKFSGhtBDWFD+dvh5SLBzT2DOvQ/AkZLsDZIgC3zl462iQkxNqBRaAlUymh07htIjVQphc0lqCFsiyB/g3kIwc0fbXk3qOCviU2wDUYZG1aV0thygTHD7ZGyRs+X/Ut8lGAjqPnYgjxkY36ckwR1e+UKzG35ExAI1kvJRJq5bkgoKmJDGoXGTG9ClTKDLSSPq1QJG5aHLD4IhhsMm5XyaFSBf1/Z15rbkm/t7iliexxiW35Bc1PUKAoHOVqlCiKFeYjrlhC1+a/DA5t+cgZztUo5n0mGjYqk8fvmaRuKqgwK28vwnnPL5xQ3gUopjc69WB5f4iPhJiYkLML87cOzr+cRtdI4lnoVkNFWKpXa0ijvJsTWEbcw1GyH6IsLE5CxRjlhQaBS6qDzZewKYmxsAoKq08WVKZJaJnNSrY7WVlfPGl7Ah8RWPZHkbRbZwuBtHZIaib3eF2F7jGOjs14ljWLn4yqVp7sAW+mX6BtGzT2plCue/xtE3KAP7mMDXz3U5109bqyuCYqrA7K6SpqBNMnRKiyuXuJ3TWe9XJWSGo0mNmSPJdgwboBTxvU7IDS1s3VA5uLiZHR1tnbs2XCIrYF6AVQOa03XRYVqBRSlJzYf2/B6k5v4dALb3gJx11TWy1UpSe3JMnGBHO5GXMqvoMxjc56hBkrSatDkAJPb+ukRQHV26v9oadV1G/7ncuWfHh9b7y9sUxKRmMD2nMSWo5ohcRrFw4GvUim2qHGEZR4ENTCPLZUxqy559tlDv4P0cNUF5WkZfixfHQvmNtlyQLwNqLOx4owUaY62OJUSGj2nqf0gxxZyW3kLMw92rEEIqxWowkrFbx3Vzmwv6Fc24QAD8xv44Aq7u+ScnjAoZCUnSyIpExY45TyhYurchd8JN6KmOOLGZh7+aANpW+2ssXZ2dXUCZ7nqyM5E7XF0hOuSlySXYHbIdVIH31EUZ7vUubIlmB+o6Y3IeqUapcJBbuEx6UawBONz42QeiMFFtXoEMwzbtr11H1uMkdjIyS1Rq7JFn4pjYhpHv0nCAqNSTKNMOIjpt5HcuArNZEqnYWLm2s11KNLYpS0Sm0vduzq3AX0msaDPNsWfvyTByVQaIQ3aHpxpTY6NzENoKLBbVDlpHAM7g5PbknDrhwAblbkp67SwzfAmViJ4q/IfCW749CZJP0iB/kZdUrKZIeTGoQYiAiwEauvr6zXYeDttxFKjsYVtbbjBNPi0E//r0Irss7qOG4fN+oPghmW9lEojjRIT28LL5/QV47fO8KihfHcdhlGQuNWWTpoKvwSQwhbkXs7Q6w6ccJvztjQR6bQ5z+pSOZ9gy/PvGDgsLFAqHf987glO7SNzPYWNWlxqgEL++OxqdHIyWm14ks2AQmzBzI6mtEI4y9ed+rDL7b4V8u1t7mMLDvkQuOgpGLw6xZohfI0SeS659qKCLTPzbOOQTy0DUwz0OyeZTEMRW5B9+ZVR1HZEb/2gFk6z2wfc11xMMLsCxU/4PeeGBUKloUbxtsfC79z9IrGbUJU2aelgCxMJB/UviPhITlcWtb4nG2yyVwxgKdw4LExzNYoNtcf8a93hTvGwUvCfycAiK6f/tiN4OIapZmXvAYlSuKgZwtEoHg6YWHD32KJgClMP/NkWdkmmKBhuzLiUvj4lSuHGWe8jRqNRnrvwp+hCd/vMVTiGEKdmOHnxClR6B2VIjdk9EvPWmSgynDMqnaPy3IU/xNe5U2zhCPO332YO4PNVYO7n9ci3uBI9YI6Le1nP92Nuc7RK/e9hOOAka2nBFsnUb+96rf72sMhdNd3lTW6MRBXecbQXRoYgLDwiNRou74liQSqwhQ+UxhdWfV7KxmkKK7waKogMQdY7TWg0DAfcZC092MIAGrvCzMHG3Ran8kat57kFLOvFNRrkuYJkLUXYChP+06JbMaswLDanzztO7UVkQXGPq3Q6CgdM4Z4+bFY2eMp2Qn6zDDb2CdwE2ILiHk1v05hGETRhspYmbFZ2Inw6Oazjefu2aGwCaqrY/OIeZb1zY42iiU2SrKUKm9UJ+hqwGB22htvc+EBhEz6jpYrNT+FQ1ouoPQraHrJkLV3YLGvceoRZW537tB+JTRx51bFZ3+f8JcBpX6MwHMTHgsjN3WMjX9/GxbaNH0DX7+T9qGLzU7hApSjPjUnWSDcpwGZ5E458KGHYnF1J1E2CDaVwICwgjcI8NyZZI92kARtsI9WVsDnynQ/JsMHi/sUcUOnc3Hf0KovUUoPNcrcDcDJsjtOS749OiA2mcN8Alc49UUjWSDcpwQaUuosWFbjYUE3qOMO4aiIxNlDcfzX56F/Swp3rJjXYLKs0hD1x3oTfggtcg/gNXcmxgRTu/b85qyxxblKEDb7maMBfZ+4NlLbXaGCzrF/VY0HkJlXYrmta2LTcGGxabgw2LTcGm5Ybg03LjcGm5cZg03JjsGm5Mdi03BhsWm4MNi03BpuWG4NNy43BpuXGYNNykxwb/pCQwaZMrdhqe91uQm5JsBV6PatoZQuehXqWCR7ISobNGwwK3WzWRh3QXoK3uGhgc7st2/O6O+1k3JJgG8JfHNntu0WrVfBse9hWPjMZNrhnqdduZbqW1/PaPfU3e+lg6zWLw267pfAIhy62QWFgD7LdQr897BTz+ZalfEOJsBV6nWFnkM/bTcsr9tpWW/nhcx2Rev1Sv9seCh9YuD62odvND7LtLBxtvWK+X7gZbNag2+q07J47yLe8Xruo/vJfHWwfPv3n06tPn/774cawWd2m5Vrdjm1lLC9fcLvK004ibHuvX31+/fn1q9evwJ/X4JPyL4rRwZYP7eawaVuKI6meGWwGm8Gm68Zg03JjsGm5Mdi03BhsWm4MNi03BpuWG4NNy43BpuXGYNNyY7BpuTHYtNwYbFpuDDYtNwablhuDTcsNxObeuP29sJUQNrdbvGHrwvsp3byb0q25sdAbrm/astm/mRsra0zDDDYt+x8NjFd58mx+SgAAAABJRU5ErkJggg==>
+	</div>
+	 <div>
+		<p> Click hear for <a href="https://docs.google.com/document/d/1_X8iCjzUK_CfCbwnxmDDUeImFwYSB1rz47EGq5IezxE/edit"> <button > Technical document for angular </button></a> </p>
+		<img src=data:image/png;base64,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>
+	</div>
+	
+	<div>
+		<p> Click hear for <a href="https://docs.google.com/document/d/1BcfUFatubRW7O2TLMUrM59uqImu9_li3h4hH1F1OvvA/edit"> <button bgcolor="red"> Technical document for react </button></a> </p>
+		<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qvov3Fy5FKt44_Y-rynYY8liqZ4YRg9jrg&usqp=CAU >
+	</div>
+	<div>
+	</div>
+	
+</body>	
+		
+</html>
